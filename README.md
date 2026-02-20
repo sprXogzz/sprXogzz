@@ -10,7 +10,6 @@
 - 🎓 Software Development Student  
 - 💻 Interested in Front-End Development  
 - 🌍 Building real-world mini projects  
-- 🚀 Improving myself every day  
 
 ---
 
@@ -59,8 +58,7 @@
 
 - 🎓 Yazılım Geliştirme öğrencisiyim  
 - 💻 Front-End geliştirme ile ilgileniyorum  
-- 🌍 Gerçek hayata yönelik mini projeler geliştiriyorum  
-- 🚀 Kendimi her gün geliştirmeye çalışıyorum  
+- 🌍 Gerçek hayata yönelik mini projeler geliştiriyorum 
 
 ---
 
