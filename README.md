@@ -86,17 +86,14 @@
 - Linux
 
 ---
+## 📊 GitHub İStatistikleri
 
-## 📊 GitHub Stats
+![Oğuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprXogzz&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sprXogzz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprXogzz&layout=compact&theme=tokyonight" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprXogzz&layout=compact&theme=tokyonight)
 ---
 
-## 📫 Contact
+## 📫 İletişim
 
 - GitHub: https://github.com/sprXogzz  
 - Mail: oguzsevik00@gmail.com  
