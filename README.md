@@ -84,9 +84,9 @@
 - Linux
 
 ---
-## 📊 GitHub İStatistikleri
+## 📊 En Çok Kullandığım Diller
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sprXogzz&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprXogzz&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 İletişim
