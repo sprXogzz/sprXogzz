@@ -84,10 +84,6 @@
 - Linux
 
 ---
-## 📊 En Çok Kullandığım Diller
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprXogzz&layout=compact&theme=tokyonight)
----
 
 ## 📫 İletişim
 
